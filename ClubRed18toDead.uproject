@@ -164,6 +164,14 @@
 			"Name": "SharedInstancedMeshes",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/300aed75807e4ad4a3cd8c0aaa3d9665"
+		},
+		{
+			"Name": "RigLogic",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkControlRig",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
