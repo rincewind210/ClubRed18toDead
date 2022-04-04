@@ -1,0 +1,8 @@
+Begin Object Class=/Script/Foliage.ProceduralFoliageSpawner Name="4xcacti"
+   FoliageTypes(0)=(FoliageTypeObject=FoliageType_InstancedStaticMesh'"/Game/cact1.cact1"',bIsAsset=True)
+   FoliageTypes(1)=(FoliageTypeObject=FoliageType_InstancedStaticMesh'"/Game/cact2.cact2"',bIsAsset=True)
+   FoliageTypes(2)=(FoliageTypeObject=FoliageType_InstancedStaticMesh'"/Game/cact3.cact3"',bIsAsset=True)
+   FoliageTypes(3)=(FoliageTypeObject=FoliageType_InstancedStaticMesh'"/Game/cact4.cact4"',bIsAsset=True)
+   FoliageTypes(4)=(FoliageTypeObject=FoliageType_InstancedStaticMesh'"/Game/cact5.cact5"',bIsAsset=True)
+   FoliageTypes(5)=(FoliageTypeObject=FoliageType_InstancedStaticMesh'"/Game/cact6.cact6"',bIsAsset=True)
+End Object

@@ -1,0 +1,8 @@
+Begin Object Class=/Script/Foliage.ProceduralFoliageSpawner Name="cutshadeforest"
+   FoliageTypes(0)=(FoliageTypeObject=FoliageType_InstancedStaticMesh'"/Game/0AzhVR/0AzhVR/foliagespawning/cs1.cs1"',bIsAsset=True)
+   FoliageTypes(1)=(FoliageTypeObject=FoliageType_InstancedStaticMesh'"/Game/0AzhVR/0AzhVR/foliagespawning/cs2.cs2"',bIsAsset=True)
+   FoliageTypes(2)=(FoliageTypeObject=FoliageType_InstancedStaticMesh'"/Game/0AzhVR/0AzhVR/foliagespawning/cs3.cs3"',bIsAsset=True)
+   FoliageTypes(3)=(FoliageTypeObject=FoliageType_InstancedStaticMesh'"/Game/0AzhVR/0AzhVR/foliagespawning/cs4.cs4"',bIsAsset=True)
+   FoliageTypes(4)=(FoliageTypeObject=FoliageType_InstancedStaticMesh'"/Game/0AzhVR/0AzhVR/foliagespawning/cs5.cs5"',bIsAsset=True)
+   FoliageTypes(5)=(FoliageTypeObject=FoliageType_InstancedStaticMesh'"/Game/0AzhVR/0AzhVR/foliagespawning/cs6.cs6"',bIsAsset=True)
+End Object
